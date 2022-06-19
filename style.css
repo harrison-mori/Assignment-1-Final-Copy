@@ -13,6 +13,7 @@ font-family: 'Roboto Mono', monospace;
 
 
 }
+body{background: #ff7f50}
 nav{
   display: flex;
   padding: 2% 6%;
@@ -50,10 +51,10 @@ text-align:right;
   width: 100%;
 }
 .text-box{
-  width: 50%;
+  width: 100%;
   color: #f0fff0;
   position: absolute;
-  top: 50%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
