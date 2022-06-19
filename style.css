@@ -51,10 +51,10 @@ text-align:right;
   width: 100%;
 }
 .text-box{
-  width: 100%;
+  width: 95%;
   color: #f0fff0;
   position: absolute;
-  top: 400%;
+  top: 270%;
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
